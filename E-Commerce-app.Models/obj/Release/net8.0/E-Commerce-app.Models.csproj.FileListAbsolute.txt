@@ -1,0 +1,12 @@
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\bin\Release\net8.0\E-Commerce-app.Models.deps.json
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\bin\Release\net8.0\E-Commerce-app.Models.dll
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\bin\Release\net8.0\E-Commerce-app.Models.pdb
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\E-Commerce-app.Models.csproj.AssemblyReference.cache
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\E-Commerce-app.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\E-Commerce-app.Models.AssemblyInfoInputs.cache
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\E-Commerce-app.Models.AssemblyInfo.cs
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\E-Commerce-app.Models.csproj.CoreCompileInputs.cache
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\E-Commerce-app.Models.dll
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\refint\E-Commerce-app.Models.dll
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\E-Commerce-app.Models.pdb
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Release\net8.0\ref\E-Commerce-app.Models.dll
