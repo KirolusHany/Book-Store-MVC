@@ -17,3 +17,4 @@ D:\MVC Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net8.0\refint\E-Commer
 D:\MVC Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net8.0\E-Commerce.DataAccess.pdb
 D:\MVC Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net8.0\E-Commerce.DataAccess.genruntimeconfig.cache
 D:\MVC Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net8.0\ref\E-Commerce.DataAccess.dll
+D:\MVC Project\E-Commerce\E-Commerce.DataAccess\obj\Debug\net8.0\E-Commerce.DataAccess.sourcelink.json

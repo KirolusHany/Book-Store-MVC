@@ -10,3 +10,4 @@ D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Debug\net8.0\E-Commerce-app.
 D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Debug\net8.0\refint\E-Commerce-app.Models.dll
 D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Debug\net8.0\E-Commerce-app.Models.pdb
 D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Debug\net8.0\ref\E-Commerce-app.Models.dll
+D:\MVC Project\E-Commerce\E-Commerce-app.Models\obj\Debug\net8.0\E-Commerce-app.Models.sourcelink.json
